@@ -1,4 +1,4 @@
-![alt Computer in Logisim](https://camo.githubusercontent.com/195a52b6e347048ce0b0c7442fa4aa5bf2be8022a24400fe58e82c3846a970c6/68747470733a2f2f692e696d6775722e636f6d2f61494c333973372e706e67)
+![alt Computer in Logisim](https://raw.githubusercontent.com/ONovak43/8bitComputer/main/cpu_logisim.png)
 # 8bitComputer
 The aim of this project is to create an 8-bit computer in the simulation program Logisim. All parts of the processor (computer) are composed of (N)AND, (N)OR, and NOT gates. The exception is the ROM memory, which was implemented using the ROM memory component in Logisim. The computer is based on the von Neumann architecture. 
 ## ISA
